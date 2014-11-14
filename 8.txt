@@ -1,0 +1,44 @@
+InvoiceId               BillingCountry                  BillingState
+----------------------  ------------------------------  ------------
+381                     United Kingdom                              
+397                     USA                             AZ          
+405                     USA                             CA          
+375                     USA                             FL          
+384                     USA                             IL          
+407                     USA                             MA          
+406                     USA                             NV          
+396                     USA                             NY          
+354                     USA                             TX          
+363                     USA                             UT          
+298                     USA                             WA          
+408                     USA                             WI          
+326                     Sweden                                      
+402                     Spain                                       
+410                     Portugal                                    
+356                     Poland                                      
+392                     Norway                                      
+390                     Netherlands                     VV          
+347                     Italy                           RM          
+401                     Ireland                         Dublin      
+412                     India                                       
+377                     Hungary                                     
+367                     Germany                                     
+399                     France                                      
+411                     Finland                                     
+340                     Denmark                                     
+404                     Czech Republic                              
+314                     Chile                                       
+362                     Canada                          AB          
+328                     Canada                          BC          
+342                     Canada                          MB          
+376                     Canada                          NS          
+388                     Canada                          NT          
+409                     Canada                          ON          
+391                     Canada                          QC          
+319                     Brazil                          DF          
+395                     Brazil                          RJ          
+383                     Brazil                          SP          
+394                     Belgium                                     
+370                     Austria                                     
+305                     Australia                       NSW         
+403                     Argentina                                   

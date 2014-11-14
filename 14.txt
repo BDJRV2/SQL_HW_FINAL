@@ -1,0 +1,7 @@
+Sum                     BillingCountry
+----------------------  --------------
+91                      USA           
+56                      Canada        
+35                      Brazil        
+35                      France        
+28                      Germany       

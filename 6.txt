@@ -1,0 +1,55 @@
+City                  
+----------------------
+São José dos Campos 
+Stuttgart             
+Montréal             
+Oslo                  
+Prague                
+Vienne                
+Brussels              
+Copenhagen            
+São Paulo            
+Rio de Janeiro        
+Brasília             
+Edmonton              
+Vancouver             
+Mountain View         
+Redmond               
+New York              
+Cupertino             
+Reno                  
+Orlando               
+Boston                
+Chicago               
+Madison               
+Fort Worth            
+Tucson                
+Salt Lake City        
+Toronto               
+Ottawa                
+Halifax               
+Winnipeg              
+Yellowknife           
+Lisbon                
+Porto                 
+Berlin                
+Frankfurt             
+Paris                 
+Lyon                  
+Bordeaux              
+Dijon                 
+Helsinki              
+Budapest              
+Dublin                
+Rome                  
+Amsterdam             
+Warsaw                
+Madrid                
+Stockholm             
+London                
+Edinburgh             
+Sidney                
+Buenos Aires          
+Santiago              
+Delhi                 
+Bangalore             

@@ -1,0 +1,3 @@
+CustomerId              FirstName                       LastName    Company     Address     City        State       Country     PostalCode  Phone       Fax         Email                                SupportRepId
+----------------------  ------------------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  -----------------------------------  ------------
+62                      Balazs                          Persotzi    BGF         Bagolyvar   Budapest                Hungary     1149                                sokaigtartottmirerajottem@gmail.com              
